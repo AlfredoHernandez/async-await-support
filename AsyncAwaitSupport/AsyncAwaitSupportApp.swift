@@ -1,8 +1,5 @@
 //
-//  AsyncAwaitSupportApp.swift
-//  AsyncAwaitSupport
-//
-//  Created by Jesús Alfredo Hernández Alarcón on 16/06/21.
+//  Copyright © 2021 Jesús Alfredo Hernández Alarcón. All rights reserved.
 //
 
 import SwiftUI
@@ -11,7 +8,7 @@ import SwiftUI
 struct AsyncAwaitSupportApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CatsView()
         }
     }
 }
